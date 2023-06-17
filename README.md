@@ -1,2 +1,1 @@
-- Currently learning: Everything Frontend
-- Avoiding with passion: Java
+I like programming and hardware
